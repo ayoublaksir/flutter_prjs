@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685614510934",
+    "project_id": "beautyglow-23553",
+    "storage_bucket": "beautyglow-23553.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685614510934:android:2306e23f2ed5120062dcf7",
+        "android_client_info": {
+          "package_name": "com.beauty.beautyglow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbN94k3PRvPZ1EDdqBXZ6W6777lK9d7_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

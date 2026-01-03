@@ -1,0 +1,30 @@
+{
+    "indexes": [
+      {
+        "collectionGroup": "dateOffers",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "status", "order": "ASCENDING" },
+          { "fieldPath": "creatorGender", "order": "ASCENDING" },
+          { "fieldPath": "creatorId", "order": "ASCENDING" },
+          { "fieldPath": "dateTime", "order": "ASCENDING" }
+        ]
+      },
+      {
+        "collectionGroup": "dateOffers",
+        "queryScope": "COLLECTION", 
+        "fields": [
+          { "fieldPath": "status", "order": "ASCENDING" },
+          { "fieldPath": "dateTime", "order": "DESCENDING" }
+        ]
+      },
+      {
+        "collectionGroup": "dateOffers",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "creatorId", "order": "ASCENDING" },
+          { "fieldPath": "createdAt", "order": "DESCENDING" }
+        ]
+      }
+    ]
+  }

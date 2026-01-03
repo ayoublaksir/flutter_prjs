@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312856079110",
+    "project_id": "datingapp-febe5",
+    "storage_bucket": "datingapp-febe5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312856079110:android:18ee7a0a811d7a90d90c87",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFI0OT0oJR9i612Gyw1KFlNUxmePfnG2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
